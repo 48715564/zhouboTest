@@ -1,0 +1,5 @@
+.idea/
+gam.iml
+application.pid
+application.port
+target/
